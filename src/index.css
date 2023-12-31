@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.backGround-image{
+  background: url("https://images.pexels.com/photos/5727730/pexels-photo-5727730.jpeg?auto=compress&cs=tinysrgb&w=600");
+  background-size: 100%;
+  background-position: center;
+}
